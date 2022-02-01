@@ -24,7 +24,6 @@ e.g. try these at the ghci prompt
 
 *Main> move "north" bedroom
 Just "kitchen"
-
 *Main> move "north" kitchen
 Nothing
 -}
